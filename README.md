@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @clintowino
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding💻
 - 📫 How to reach me 0714483508
-- 😄 Pronouns: ..he
 - ⚡ Fun fact: ...it is POSSIBLE
 
 <!---
