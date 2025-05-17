@@ -1,6 +1,6 @@
 ## Hi, I'm Clinton.
 
-🔭 Mathematics and Computwe Science student at Kenyatta University<be/>
+🔭 Mathematics and Computer Science student at Kenyatta University<be/>
  🌱 I’m currently learning <br/>
  📫 How to reach me: +254 714483508, ig@xx.clintxx<br/>
  ⚡ Fun fact: I am a dedicated programmer with a deep passion for coding<br/>
